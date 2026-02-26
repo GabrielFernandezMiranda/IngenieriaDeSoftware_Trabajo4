@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Gabriel Fernandez",
+    "commit": {
+      "date": "2026-02-26T04:57:33.000Z",
+      "message": "Feat: Agregando Multiplicador",
+      "url": "https://github.com/GabrielFernandezMiranda/IngenieriaDeSoftware_Trabajo4/commit/HEAD"
+    },
+    "stats": {
+      "total": 63,
+      "additions": 54,
+      "deletions": 9,
+      "date": "2026-02-26"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
